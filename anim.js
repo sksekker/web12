@@ -4,6 +4,7 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
+  
   { text: "Morena mía, voy a contarte hasta diez", time: 12 },
   { text: "Uno es el sol que te alumbra,", time: 17 },
   { text: "Dos tus piernas que matan,", time: 21 },
@@ -24,11 +25,9 @@ var lyricsData = [
   { text: "Me muerde y me destroza, toda siempre es poca", time: 80 },
   { text: "Y muévete bien,", time: 85 },
   { text: "Que nadie como tú me sabe hacer café", time: 88 },
-
   { text: "Morena gata, ay me mata, me mata y me remata,", time: 92 },
   { text: "Vamos pa'l infierno, aunque no sea eterno,", time: 96 },
   { text: "Suave bien, bien que nadie como tú me sabe hacer café", time: 101 },
-
   { text: "Pero cuando tu boca, me toca, me pone y me provoca,", time: 106 },
   { text: "Me muerde y me destroza toda siempre es poca", time: 111 },
   { text: "Y muévete bien, bien, bien, bien", time: 116 },
