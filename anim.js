@@ -27,7 +27,7 @@ var lyricsData = [
   { text: "XDddddd", time: 73 },
   { text: "waaaaaaaaa bueno xd ", time: 78 },
   { text: "cuando este listo te pedire matrimonio", time: 86 },
-  { text: "espero que no me aceptes ajajaja", time: 93 },
+  { text: "espero que  me aceptes ajajaja", time: 93 },
   { text: "yayaa mucho amor talves te da cringe", time: 103 },
   { text: "laiksito, coransoncito, besitos y", time: 111 },
   { text: "y un chape wwaaaaaa", time: 118 },
