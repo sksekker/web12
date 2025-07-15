@@ -28,9 +28,10 @@ var lyricsData = [
   { text: "waaaaaaaaa bueno xd ", time: 78 },
   { text: "cuando este listo te pedire matrimonio", time: 86 },
   { text: "espero que  me aceptes ajajaja", time: 93 },
-  { text: "yayaa mucho amor talves te da cringe", time: 103 },
-  { text: "laiksito, coransoncito, besitos y", time: 111 },
-  { text: "y un chape wwaaaaaa", time: 118 },
+  { text: "y si no que te caiga un rayo waaaaa", time: 103 },
+  { text: "yayaa mucho amor talves te da cringe", time: 111 },
+  { text: "laiksito, corazoncito, besitos y", time: 118 },
+  { text: "y un chape wwaaaaaa", time: 125 },
 ];
 
 // Animar las letras
