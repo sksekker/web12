@@ -5,17 +5,17 @@ var lyrics = document.querySelector("#lyrics");
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
   
-  { text: "Hola Señorita de ojos lindos", time: 0 },
+  { text: "Hola amorcito bello :3 como estas", time: 0 },
   { text: "que te parece esto sjsjjss ta bonito no ?", time: 5 },
   { text: "pero mas bonito es que cada dia,", time: 7 },
   { text: "te piense como si fueras mi elixir de vida", time: 10 },
-  { text: "aun recuerdo el dia que te vi,", time: 13 },
-  { text: "la verdad pense que no te caia", time: 16 },
-  { text: "o que me ibas a mandar a volar jsjssj", time: 19 },
-  { text: "pero cuando mire tus ojos lindos ", time: 23 },
+  { text: "eres lo mas importante para mi,", time: 13 },
+  { text: "y eres lo mejor que me ha pasado amor", time: 16 },
+  { text: "siempre te amare como el primer dia", time: 19 },
+  { text: "cuando mire tus ojos lindos ", time: 23 },
   { text: "quede en shock omaga me fue como mirar una estrella", time: 27 },
   { text: "o como mirar el cielo despejado ", time: 33 },
-  { text: "ahora puedo decir que el amor primera vista si exite", time: 38 },
+  { text: "ahora puedo decir que encontre al amor de mi vida", time: 38 },
   { text: "te prometo mi niña que dare todo", time: 41 },
   { text: "por ti ", time: 43 },
   { text: "te mereces el cielo mismo", time: 45 },
@@ -29,9 +29,9 @@ var lyricsData = [
   { text: "desde que llegste mi vida cambio", time: 86 },
   { text: "tus ojos son como dos estrellas", time: 93 },
   { text: "que hasta la luna se inclina para verte", time: 103 },
-  { text: "Vanesa eres poema entre letras de amor", time: 111 },
+  { text: "mi amor eres poema entre letras de amor", time: 111 },
   { text: "y tu nombre en mi corazon late eterno", time: 118 },
-  { text: "como un canto que nunca termina hsjsjsjs hay me falto inspiracionnpero ta bonito sjsjs", time: 125 },
+  { text: "como un canto que nunca termina hsjsjsjs hay me  inspire ta bonito sjsjs te amooo", time: 125 },
 ];
 
 // Animar las letras
