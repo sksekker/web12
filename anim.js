@@ -16,7 +16,7 @@ var lyricsData = [
 { text: "quedé en shock, omg, fue como ver una estrella", time: 27 },
 { text: "o como mirar el cielo despejado", time: 33 },
 { text: "ahora puedo decir que encontré al amor de mi vida", time: 38 },
-{ text: "te prometo, mi niña, que daré todo", time: 41 },
+{ text: "te prometo mi niña que daré todo", time: 41 },
 { text: "por ti", time: 43 },
 { text: "te mereces el cielo mismo", time: 45 },
 { text: "te mereces mi corazón en un llavero", time: 48 },
@@ -29,9 +29,10 @@ var lyricsData = [
 { text: "desde que llegaste mi vida cambió", time: 86 },
 { text: "tus ojos son como dos estrellas", time: 93 },
 { text: "que hasta la luna se inclina para verte", time: 103 },
-{ text: "mi amor, eres un poema de amor", time: 111 },
+{ text: "mi amor eres un poema de amor", time: 111 },
 { text: "y tu nombre en mi corazón late siempre", time: 118 },
-{ text: "como un canto que nunca termina jaja me inspiré, está bonito ¿no? te amooo", time: 125 },
+{ text: "como un canto que nunca termina jaja me inspiré está bonito no? te amooo", time: 125 },
+{ text: "TE AMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO", time: 130 },
 ];
 
 // Animar las letras
