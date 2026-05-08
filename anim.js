@@ -32,7 +32,6 @@ var lyricsData = [
 { text: "mi amor eres un poema de amor", time: 111 },
 { text: "y tu nombre en mi corazón late siempre", time: 118 },
 { text: "como un canto que nunca termina jaja me inspiré está bonito no? te amooo", time: 125 },
-{ text: "TE AMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO", time: 130 },
 ];
 
 // Animar las letras
